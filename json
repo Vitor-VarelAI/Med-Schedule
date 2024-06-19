@@ -1,157 +1,170 @@
 {
-    "folha_de_terapeutica": {
+  "folha_de_terapeutica": {
       "mes": "Junho",
       "ano": 24,
       "abreviacoes": {
-        "PA": "Pequeno-almoço",
-        "AL": "Almoço",
-        "LAN": "Lanche",
-        "JAN": "Jantar"
+          "PA": "Pequeno-almoço",
+          "AL": "Almoço",
+          "LAN": "Lanche",
+          "JAN": "Jantar"
       },
       "medicamentos": [
-        {
-          "nome": "Tacrolimus",
-          "PA": "1mg",
-          "11h": "",
-          "AL": "",
-          "LAN": "",
-          "JAN": "",
-          "23h": "1mg",
-          "obs": "",
-          "frequencia": ""
-        },
-        {
-          "nome": "Everolimus",
-          "PA": "1.25",
-          "11h": "",
-          "AL": "",
-          "LAN": "",
-          "JAN": "",
-          "23h": "1.25",
-          "obs": "",
-          "frequencia": ""
-        },
-        {
-          "nome": "Prednisona",
-          "PA": "1cp",
-          "11h": "",
-          "AL": "",
-          "LAN": "",
-          "JAN": "",
-          "23h": "",
-          "obs": "",
-          "frequencia": ""
-        },
-        {
-          "nome": "Irbesartana + Hidroclorotiazida",
-          "PA": "1cp",
-          "11h": "",
-          "AL": "",
-          "LAN": "",
-          "JAN": "",
-          "23h": "",
-          "obs": "150mg + 12.5mg",
-          "frequencia": ""
-        },
-        {
-          "nome": "Carvedilol 25",
-          "PA": "1cp",
-          "11h": "",
-          "AL": "",
-          "LAN": "",
-          "JAN": "",
-          "23h": "1cp",
-          "obs": "",
-          "frequencia": ""
-        },
-        {
-          "nome": "Pantoprazol 40",
-          "PA": "1cp",
-          "11h": "",
-          "AL": "",
-          "LAN": "",
-          "JAN": "",
-          "23h": "",
-          "obs": "",
-          "frequencia": ""
-        },
-        {
-          "nome": "Cinacalcet",
-          "PA": "1cp",
-          "11h": "",
-          "AL": "",
-          "LAN": "",
-          "JAN": "",
-          "23h": "",
-          "obs": "",
-          "frequencia": "Dias alternados"
-        },
-        {
-          "nome": "Alopurinol 100",
-          "PA": "",
-          "11h": "1cp",
-          "AL": "",
-          "LAN": "",
-          "JAN": "",
-          "23h": "",
-          "obs": "",
-          "frequencia": ""
-        },
-        {
-          "nome": "Sitagliptina",
-          "PA": "1cp",
-          "11h": "",
-          "AL": "",
-          "LAN": "",
-          "JAN": "",
-          "23h": "",
-          "obs": "",
-          "frequencia": ""
-        },
-        {
-          "nome": "Clonidina 0.15",
-          "PA": "1/2cp",
-          "11h": "1/2cp",
-          "AL": "",
-          "LAN": "",
-          "JAN": "",
-          "23h": "1/2cp",
-          "obs": "",
-          "frequencia": ""
-        },
-        {
-          "nome": "Atorvastatina",
-          "PA": "",
-          "11h": "",
-          "AL": "",
-          "LAN": "",
-          "JAN": "",
-          "23h": "20mg",
-          "obs": "",
-          "frequencia": ""
-        },
-        {
-          "nome": "Insulina Glargina",
-          "PA": "",
-          "11h": "",
-          "AL": "",
-          "LAN": "",
-          "JAN": "26 unidades",
-          "23h": "",
-          "obs": "",
-          "frequencia": ""
-        },
-        {
-          "nome": "Aspartato de Magnésio",
-          "PA": "",
-          "11h": "",
-          "AL": "",
-          "LAN": "",
-          "JAN": "",
-          "23h": "1 saqueta",
-          "obs": "",
-          "frequencia": "Dias alternados"
-        }
+          {
+              "nome": "Tacrolimus",
+              "PA": "1mg",
+              "11h": "",
+              "AL": "",
+              "LAN": "",
+              "JAN": "",
+              "23h": "1mg",
+              "obs": "",
+              "frequencia": ""
+          },
+          {
+              "nome": "Everolimus",
+              "PA": "1.25",
+              "11h": "",
+              "AL": "",
+              "LAN": "",
+              "JAN": "",
+              "23h": "1.25",
+              "obs": "",
+              "frequencia": ""
+          },
+          {
+              "nome": "Prednisona",
+              "PA": "1cp",
+              "11h": "",
+              "AL": "",
+              "LAN": "",
+              "JAN": "",
+              "23h": "",
+              "obs": "",
+              "frequencia": ""
+          },
+          {
+              "nome": "Irbesartana + Hidroclorotiazida",
+              "PA": "1cp",
+              "11h": "",
+              "AL": "",
+              "LAN": "",
+              "JAN": "",
+              "23h": "",
+              "obs": "150mg + 12.5mg",
+              "frequencia": ""
+          },
+          {
+              "nome": "Carvedilol 25",
+              "PA": "1cp",
+              "11h": "",
+              "AL": "",
+              "LAN": "",
+              "JAN": "",
+              "23h": "1cp",
+              "obs": "",
+              "frequencia": ""
+          },
+          {
+              "nome": "Pantoprazol 40",
+              "PA": "1cp",
+              "11h": "",
+              "AL": "",
+              "LAN": "",
+              "JAN": "",
+              "23h": "",
+              "obs": "",
+              "frequencia": ""
+          },
+          {
+              "nome": "Cinacalcet",
+              "PA": "1cp",
+              "11h": "",
+              "AL": "",
+              "LAN": "",
+              "JAN": "",
+              "23h": "",
+              "obs": "",
+              "frequencia": "Dias alternados"
+          },
+          {
+              "nome": "Alopurinol 100",
+              "PA": "",
+              "11h": "1cp",
+              "AL": "",
+              "LAN": "",
+              "JAN": "",
+              "23h": "",
+              "obs": "",
+              "frequencia": ""
+          },
+          {
+              "nome": "Sitagliptina",
+              "PA": "1cp",
+              "11h": "",
+              "AL": "",
+              "LAN": "",
+              "JAN": "",
+              "23h": "",
+              "obs": "",
+              "frequencia": ""
+          },
+          {
+              "nome": "Clonidina 0.15",
+              "PA": "1/2cp",
+              "11h": "1/2cp",
+              "AL": "",
+              "LAN": "",
+              "JAN": "",
+              "23h": "1/2cp",
+              "obs": "",
+              "frequencia": ""
+          },
+          {
+              "nome": "Atorvastatina",
+              "PA": "",
+              "11h": "",
+              "AL": "",
+              "LAN": "",
+              "JAN": "",
+              "23h": "20mg",
+              "obs": "",
+              "frequencia": ""
+          },
+          {
+              "nome": "Insulina Glargina",
+              "PA": "",
+              "11h": "",
+              "AL": "",
+              "LAN": "",
+              "JAN": "26 unidades",
+              "23h": "",
+              "obs": "",
+              "frequencia": ""
+          },
+          {
+              "nome": "Aspartato de Magnésio",
+              "PA": "",
+              "11h": "",
+              "AL": "",
+              "LAN": "",
+              "JAN": "",
+              "23h": "1 saqueta",
+              "obs": "",
+              "frequencia": "Dias alternados"
+          },
+          {
+              "nome": "Contacts",
+              "contacts": [
+                  {
+                      "name": "Vitor",
+                      "number": "+351919344904"
+                  },
+                  {
+                      "name": "Jane Smith",
+                      "number": "+0987654321"
+                  }
+              ]
+          }
       ]
-    }
   }
+}
